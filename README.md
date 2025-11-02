@@ -2,11 +2,9 @@
 
 # **Sirajeddine Ben Fraj**
 
-**Full Stack Developer | Mobile & AI Enthusiast**  
+**Full Stack Developer**  
 📧 [sirajeddinebf@gmail.com](mailto:sirajeddinebf@gmail.com) · 📞 [+216 94990324](tel:+21694990324) · 📍 Bizerte, Tunisie  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirajeddine-ben-fraj-b8b48b314/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirajEddineBenFraj)
-
 </div>
 
 ---
@@ -49,19 +47,11 @@ Je conçois des solutions **modernes, performantes et centrées utilisateur** à
 
 ---
 
-## Éducation
-
-**Diplôme d’Ingénieur en Informatique – Ingénierie Logicielle**  
-*École Supérieure Privée d’Ingénierie et de Technologie – ESPRIT*  
-*Sept. 2021 – Présent*
-
----
-
 <div align="center">
 
 **À la recherche d’un stage de fin d’études (PFE)**  
-*Full Stack · Mobile · IA · DevOps*  
-**Disponible dès Juin 2026**
+*Full Stack*  
+**Disponible dès Janvier 2026**
 
 </div>
 
