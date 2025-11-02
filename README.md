@@ -19,58 +19,6 @@ Passionné par les **nouvelles technologies** et la **résolution de problèmes 
 
 ---
 
-## Expérience Professionnelle  
-
-### **Stagiaire – Développeur Full Stack**  
-**Youth Geekers Company**  
-*Juin 2025 – Août 2025*  
-- **Équipe** : 2 développeurs  
-- **Projet** : Application de gestion de projets inspirée du modèle **Kanban**  
-- Amélioration de la **coordination**, **transparence** et **efficacité** des équipes  
-- **Technologies** :  
-  `ReactJS` `Spring Boot` `PostgreSQL` `HTML` `CSS` `Bootstrap` `Git` `SCRUM`
-
----
-
-### **Stagiaire – Développeur Full Stack**  
-**Club E-Sports Knights Of Bizertin Rise**  
-*Juin 2024 – Août 2024*  
-- Développement d’un **site web ergonomique et intuitif** pour les fans  
-- Navigation fluide & achat de produits du club  
-- **Technologies** :  
-  `Symfony 5.4` `Twig` `PHP` `MySQL` `XAMPP` `Git` `SCRUM` `Bootstrap` `HTML/CSS` `Doctrine`
-
----
-
-## Projets  
-
-### **🌱 Plateforme Collaborative Sprout**  
-*2024–2025 | Équipe : 5 développeurs*  
-> Plateforme open-source pour la gestion collaborative de projets logiciels  
-> Productivité ↑ | Communication fluide | Workflows optimisés  
-> **Technologies** :  
-> `Flutter` `Dart` `Spring Boot` `MongoDB` `Postman` `LLM/IA` `Git` `SCRUM` `Hugging Face` `Spring Data MongoDB`
-
----
-
-### **🍴 Application Mobile SaYummy**  
-*2024–2025 | Équipe : 3 développeurs*  
-> App iOS de découverte de recettes avec suivi étape par étape  
-> Expérience culinaire intuitive et enrichissante  
-> **Technologies** :  
-> `Swift` `SwiftUI` `NestJS` `MongoDB` `Postman` `Mongoose` `Figma` `Git` `SCRUM` `TypeScript` `REST API`
-
----
-
-### **✈️ Site Web de Gestion de Voyages**  
-*2023–2024 | Équipe : 5 développeurs*  
-> Plateforme tout-en-un : hébergements, transports, activités  
-> Planification simplifiée et centralisée  
-> **Technologies** :  
-> `Symfony 5.4` `Twig` `PHP` `MySQL` `XAMPP` `Git` `SCRUM` `Bootstrap` `HTML/CSS` `Doctrine`
-
----
-
 ## Compétences  
 
 | **Catégorie**                  | **Technologies** |
