@@ -44,22 +44,3 @@ Je conçois des solutions **modernes, performantes et centrées utilisateur** à
 | **TravelHub** | Gestion complète de voyages (réservations, itinéraires) | `Symfony` `MySQL` `Bootstrap` |
 
 </div>
-
----
-
-<div align="center">
-
-**À la recherche d’un stage de fin d’études (PFE)**  
-*Full Stack*  
-**Disponible dès Janvier 2026**
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SirajEddineBenFraj&color=0A66C2&style=for-the-badge)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=SirajEddineBenFraj&theme=dark&border=0A66C2&background=0D1117)
-
-</div>
