@@ -14,7 +14,7 @@
 Étudiant en **dernière année d’ingénieur en informatique** à **ESPRIT**, spécialisé en **ingénierie logicielle**.  
 Passionné par le **développement full stack**, les **applications mobiles**, et l’**intelligence artificielle**.  
 Je conçois des solutions **modernes, performantes et centrées utilisateur** à travers des projets réels et des stages en entreprise.  
-**Recherche activement un stage de fin d’études (PFE) – Disponible dès Juin 2026.**
+**Recherche activement un stage de fin d’études (PFE) – Disponible dès Janvier 2026.**
 
 ---
 
