@@ -42,5 +42,6 @@ Je conçois des solutions **modernes, performantes et centrées utilisateur** à
 | **Sprout** | Plateforme collaborative open-source avec IA intégrée | `Flutter` `Spring Boot` `MongoDB` `Hugging Face` |
 | **SaYummy** | App mobile iOS de recettes intelligentes | `SwiftUI` `NestJS` `MongoDB` `REST API` |
 | **TravelHub** | Gestion complète de voyages (réservations, itinéraires) | `Symfony` `MySQL` `Bootstrap` |
+| **CampusConnect** | App web mobile pour étudiants : événements, clubs, forum, chat, marketplace | `Next.js` `API Routes` `MongoDB` `Vercel AI SDK` |
 
 </div>
